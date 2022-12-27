@@ -1,0 +1,6 @@
+.wrapper_page{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    height: 80vh;
+}
